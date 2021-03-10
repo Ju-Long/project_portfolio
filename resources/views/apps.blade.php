@@ -5,15 +5,23 @@
             <button type="button" class="btn">show me</button>
         </div>
         <a class="app-content" href="/movie">
-            <img src="../img/movie/Cover_Page.svg" class="app-img">
+            <img src="../img/movie/CoverPage_V2.svg" class="app-img">
         </a>
     </section>
     <section id="airport">
-        <div class="app-title"></div>
-        <div class="app-content"></div>
+        <div class="app-title">
+            <strong>Airport Navigation</strong>
+        </div>
+        <a class="app-content" href="/airport">
+            <img src="../img/movie/CoverPage.svg" alt="">
+        </a>
     </section>
     <section id="gymlog">
-        <div class="app-title"></div>
-        <div class="app-content"></div>
+        <div class="app-title">
+            <strong>Gym Log</strong>
+        </div>
+        <a class="app-content" href="/gymlog">
+            
+        </a>
     </section>
 </div>
