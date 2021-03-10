@@ -14,7 +14,7 @@
             <button type="button" class="btn">show me</button>
         </div>
         <a class="app-content" href="/airport">
-            <img src="../img/airport/CoverPage.svg" class="app-img">
+            <img src="../img/airport/CoverPage.png" class="app-img">
         </a>
     </section>
     <section id="gymlog">
